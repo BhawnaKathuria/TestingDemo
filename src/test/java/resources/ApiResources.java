@@ -24,6 +24,12 @@ public enum ApiResources {
 		System.out.println("print all details for git");
 		System.out.println("print all details for Testing");
 	}
+	public void getdetailsUser() {
+		// TODO Auto-generated method stub
+		System.out.println("print all details-User");
+		System.out.println("print all details for git-User");
+		System.out.println("print all details for Testing-User");
+	}
 	
 	
 	

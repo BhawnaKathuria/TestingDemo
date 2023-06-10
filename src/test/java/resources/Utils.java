@@ -50,5 +50,10 @@ public class Utils {
 		JsonPath js=new JsonPath(res);
 		return js.get(key).toString();
 	}
+	public String getUserpath(Response response, String key)
+	{
+		return "Hello user";
+		
+	}
 
 }
