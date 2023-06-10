@@ -18,6 +18,10 @@ public enum ApiResources {
 		return resources;
 	}
 	
+	public void getdetails() {
+		// TODO Auto-generated method stub
+		System.out.println("print all details");
+	}
 	
 	
 	
