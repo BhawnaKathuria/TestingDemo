@@ -29,6 +29,7 @@ public enum ApiResources {
 		System.out.println("print all details-User");
 		System.out.println("print all details for git-User");
 		System.out.println("print all details for Testing-User");
+		System.out.println("print all details for APIFRAMEWORK USER");
 	}
 	
 	
